@@ -1,0 +1,31 @@
+body{
+    font-weight: bold;
+   background-color: rgb(57, 204, 204); 
+color: black;
+
+
+}
+.insprod input[type=text]{
+    width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-weight: bold;
+  color: black;
+
+}
+.insprod input[type=number]{
+    width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-weight: bold;
+  color: black;
+
+
+}
+.insprod{
+    padding: 150px;
+color: black;
+text-align: center;
+}

@@ -1,0 +1,32 @@
+.insprod input[type=text]{
+    width: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-weight: bold;
+font-weight: bolder;
+color: white;
+text-shadow: 2px 2px 4px #000000;
+  
+}
+.insprod
+{
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+
+
+}
+body{
+  font-weight: bolder;
+  background: linear-gradient(50deg, HSLA(205, 62%, 44%, 1), #F62D51);
+color: white;
+font-weight: bolder;
+text-shadow: 2px 2px 4px #000000;
+
+}
+.txt{
+  width: 50%;
+  font-weight: bolder;
+}

@@ -1,0 +1,27 @@
+body{
+    font-weight: bold;
+    background-color: rgb(123, 192, 192);
+    text-shadow: 2px 2px 4px #000000;
+
+}
+.assgsales input[type=text]{
+    width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-weight: bold;
+
+}
+.assgsales input[type=number]{
+    width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-weight: bold;
+
+
+}
+.assgsales{
+    padding: 150px;
+    text-align: center;
+}
